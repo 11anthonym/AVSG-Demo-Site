@@ -1,0 +1,19 @@
+h1 {
+  font-family: "Monserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.top-image {
+    height: 400px;
+}
+
+#title {
+    background-color: #ff4c68;
+  }
+  
+
+#features{
+    background-color: #ff4c68;
+}
