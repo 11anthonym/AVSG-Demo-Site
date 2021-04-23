@@ -4,16 +4,44 @@ h1 {
   line-height: 1.5;
 }
 
+body {
+  font-family: "Monserrat";
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
 
 .top-image {
-    height: 400px;
+  height: 400px;
 }
 
 #title {
-    background-color: #ff4c68;
-  }
-  
+  background-color: #ff4c68;
+  color: #fff;
+}
 
-#features{
-    background-color: #ff4c68;
+#features {
+  background-color: #ff4c68;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Monserrat-Light";
 }
